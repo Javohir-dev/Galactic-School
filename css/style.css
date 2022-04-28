@@ -416,6 +416,7 @@ h2.teacher__name {
 .project__cards:hover {
 	box-shadow: 10px 10px 30px #0093FF, -10px -10px 30px #FF00AA;
 }
+
 .card__img {
 	width: 426px;
 	height: 240px;
